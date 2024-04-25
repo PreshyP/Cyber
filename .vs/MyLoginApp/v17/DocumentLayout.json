@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ishea\\source\\repos\\MyLoginApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F4A71A-E0E9-47D0-B310-FE53807EC969}|MyLoginApp\\MyLoginApp.csproj|c:\\users\\ishea\\source\\repos\\myloginapp\\myloginapp\\usercontrol\\flyoutheadercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F4A71A-E0E9-47D0-B310-FE53807EC969}|MyLoginApp\\MyLoginApp.csproj|solutionrelative:myloginapp\\usercontrol\\flyoutheadercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F4A71A-E0E9-47D0-B310-FE53807EC969}|MyLoginApp\\MyLoginApp.csproj|c:\\users\\ishea\\source\\repos\\myloginapp\\myloginapp\\usercontrol\\flyoutheadercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7F4A71A-E0E9-47D0-B310-FE53807EC969}|MyLoginApp\\MyLoginApp.csproj|solutionrelative:myloginapp\\usercontrol\\flyoutheadercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F4A71A-E0E9-47D0-B310-FE53807EC969}|MyLoginApp\\MyLoginApp.csproj|c:\\users\\ishea\\source\\repos\\myloginapp\\myloginapp\\viewmodels\\appshellviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F4A71A-E0E9-47D0-B310-FE53807EC969}|MyLoginApp\\MyLoginApp.csproj|solutionrelative:myloginapp\\viewmodels\\appshellviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F4A71A-E0E9-47D0-B310-FE53807EC969}|MyLoginApp\\MyLoginApp.csproj|c:\\users\\ishea\\source\\repos\\myloginapp\\myloginapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7F4A71A-E0E9-47D0-B310-FE53807EC969}|MyLoginApp\\MyLoginApp.csproj|solutionrelative:myloginapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F4A71A-E0E9-47D0-B310-FE53807EC969}|MyLoginApp\\MyLoginApp.csproj|c:\\users\\ishea\\source\\repos\\myloginapp\\myloginapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F4A71A-E0E9-47D0-B310-FE53807EC969}|MyLoginApp\\MyLoginApp.csproj|solutionrelative:myloginapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F4A71A-E0E9-47D0-B310-FE53807EC969}|MyLoginApp\\MyLoginApp.csproj|c:\\users\\ishea\\source\\repos\\myloginapp\\myloginapp\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7F4A71A-E0E9-47D0-B310-FE53807EC969}|MyLoginApp\\MyLoginApp.csproj|solutionrelative:myloginapp\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F4A71A-E0E9-47D0-B310-FE53807EC969}|MyLoginApp\\MyLoginApp.csproj|c:\\users\\ishea\\source\\repos\\myloginapp\\myloginapp\\viewmodels\\loginpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F4A71A-E0E9-47D0-B310-FE53807EC969}|MyLoginApp\\MyLoginApp.csproj|solutionrelative:myloginapp\\viewmodels\\loginpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F4A71A-E0E9-47D0-B310-FE53807EC969}|MyLoginApp\\MyLoginApp.csproj|c:\\users\\ishea\\source\\repos\\myloginapp\\myloginapp\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7F4A71A-E0E9-47D0-B310-FE53807EC969}|MyLoginApp\\MyLoginApp.csproj|solutionrelative:myloginapp\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F4A71A-E0E9-47D0-B310-FE53807EC969}|MyLoginApp\\MyLoginApp.csproj|c:\\users\\ishea\\source\\repos\\myloginapp\\myloginapp\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F4A71A-E0E9-47D0-B310-FE53807EC969}|MyLoginApp\\MyLoginApp.csproj|solutionrelative:myloginapp\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F4A71A-E0E9-47D0-B310-FE53807EC969}|MyLoginApp\\MyLoginApp.csproj|c:\\users\\ishea\\source\\repos\\myloginapp\\myloginapp\\myloginapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7F4A71A-E0E9-47D0-B310-FE53807EC969}|MyLoginApp\\MyLoginApp.csproj|solutionrelative:myloginapp\\myloginapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F4A71A-E0E9-47D0-B310-FE53807EC969}|MyLoginApp\\MyLoginApp.csproj|c:\\users\\ishea\\source\\repos\\myloginapp\\myloginapp\\models\\icons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F4A71A-E0E9-47D0-B310-FE53807EC969}|MyLoginApp\\MyLoginApp.csproj|solutionrelative:myloginapp\\models\\icons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F4A71A-E0E9-47D0-B310-FE53807EC969}|MyLoginApp\\MyLoginApp.csproj|c:\\users\\ishea\\source\\repos\\myloginapp\\myloginapp\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F4A71A-E0E9-47D0-B310-FE53807EC969}|MyLoginApp\\MyLoginApp.csproj|solutionrelative:myloginapp\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ce0010b1-93a1-33bb-8d9c-bcc1bf6c4873}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2086112457:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2076624733:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlyoutHeaderControl.xaml",
+              "DocumentMoniker": "C:\\Users\\ishea\\source\\repos\\MyLoginApp\\MyLoginApp\\UserControl\\FlyoutHeaderControl.xaml",
+              "RelativeDocumentMoniker": "MyLoginApp\\UserControl\\FlyoutHeaderControl.xaml",
+              "ToolTip": "C:\\Users\\ishea\\source\\repos\\MyLoginApp\\MyLoginApp\\UserControl\\FlyoutHeaderControl.xaml*",
+              "RelativeToolTip": "MyLoginApp\\UserControl\\FlyoutHeaderControl.xaml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T02:25:20.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlyoutHeaderControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ishea\\source\\repos\\MyLoginApp\\MyLoginApp\\UserControl\\FlyoutHeaderControl.xaml.cs",
+              "RelativeDocumentMoniker": "MyLoginApp\\UserControl\\FlyoutHeaderControl.xaml.cs",
+              "ToolTip": "C:\\Users\\ishea\\source\\repos\\MyLoginApp\\MyLoginApp\\UserControl\\FlyoutHeaderControl.xaml.cs*",
+              "RelativeToolTip": "MyLoginApp\\UserControl\\FlyoutHeaderControl.xaml.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T02:30:15.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShellViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ishea\\source\\repos\\MyLoginApp\\MyLoginApp\\ViewModels\\AppShellViewModel.cs",
+              "RelativeDocumentMoniker": "MyLoginApp\\ViewModels\\AppShellViewModel.cs",
+              "ToolTip": "C:\\Users\\ishea\\source\\repos\\MyLoginApp\\MyLoginApp\\ViewModels\\AppShellViewModel.cs",
+              "RelativeToolTip": "MyLoginApp\\ViewModels\\AppShellViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T02:16:15.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\ishea\\source\\repos\\MyLoginApp\\MyLoginApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MyLoginApp\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\ishea\\source\\repos\\MyLoginApp\\MyLoginApp\\AppShell.xaml",
+              "RelativeToolTip": "MyLoginApp\\AppShell.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T00:52:03.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ishea\\source\\repos\\MyLoginApp\\MyLoginApp\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "MyLoginApp\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\ishea\\source\\repos\\MyLoginApp\\MyLoginApp\\AppShell.xaml.cs",
+              "RelativeToolTip": "MyLoginApp\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T01:32:30.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ishea\\source\\repos\\MyLoginApp\\MyLoginApp\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "MyLoginApp\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\ishea\\source\\repos\\MyLoginApp\\MyLoginApp\\LoginPage.xaml",
+              "RelativeToolTip": "MyLoginApp\\LoginPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T17:47:02.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ishea\\source\\repos\\MyLoginApp\\MyLoginApp\\ViewModels\\LoginPageViewModel.cs",
+              "RelativeDocumentMoniker": "MyLoginApp\\ViewModels\\LoginPageViewModel.cs",
+              "ToolTip": "C:\\Users\\ishea\\source\\repos\\MyLoginApp\\MyLoginApp\\ViewModels\\LoginPageViewModel.cs",
+              "RelativeToolTip": "MyLoginApp\\ViewModels\\LoginPageViewModel.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T02:22:10.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\ishea\\source\\repos\\MyLoginApp\\MyLoginApp\\Views\\HomePage.xaml",
+              "RelativeDocumentMoniker": "MyLoginApp\\Views\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\ishea\\source\\repos\\MyLoginApp\\MyLoginApp\\Views\\HomePage.xaml*",
+              "RelativeToolTip": "MyLoginApp\\Views\\HomePage.xaml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T17:26:09.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ishea\\source\\repos\\MyLoginApp\\MyLoginApp\\Models\\UserInfo.cs",
+              "RelativeDocumentMoniker": "MyLoginApp\\Models\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\ishea\\source\\repos\\MyLoginApp\\MyLoginApp\\Models\\UserInfo.cs",
+              "RelativeToolTip": "MyLoginApp\\Models\\UserInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:16:35.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyLoginApp",
+              "DocumentMoniker": "C:\\Users\\ishea\\source\\repos\\MyLoginApp\\MyLoginApp\\MyLoginApp.csproj",
+              "RelativeDocumentMoniker": "MyLoginApp\\MyLoginApp.csproj",
+              "ToolTip": "C:\\Users\\ishea\\source\\repos\\MyLoginApp\\MyLoginApp\\MyLoginApp.csproj",
+              "RelativeToolTip": "MyLoginApp\\MyLoginApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-25T02:22:47.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Icons.cs",
+              "DocumentMoniker": "C:\\Users\\ishea\\source\\repos\\MyLoginApp\\MyLoginApp\\Models\\Icons.cs",
+              "RelativeDocumentMoniker": "MyLoginApp\\Models\\Icons.cs",
+              "ToolTip": "C:\\Users\\ishea\\source\\repos\\MyLoginApp\\MyLoginApp\\Models\\Icons.cs",
+              "RelativeToolTip": "MyLoginApp\\Models\\Icons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T01:05:08.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ishea\\source\\repos\\MyLoginApp\\MyLoginApp\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "MyLoginApp\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ishea\\source\\repos\\MyLoginApp\\MyLoginApp\\LoginPage.xaml.cs",
+              "RelativeToolTip": "MyLoginApp\\LoginPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T00:53:47.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
